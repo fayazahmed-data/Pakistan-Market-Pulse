@@ -51,7 +51,7 @@ To run this notebook locally and fetch the latest market data, follow these step
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/fayazahmed-data/Pakistan-Market-Pulse.git
-   cd pakistan-market-pulse
+   cd Pakistan Market Pulse
 
 2. **Install the required dependencies:**
 
@@ -61,7 +61,7 @@ To run this notebook locally and fetch the latest market data, follow these step
 
 4. **Run the Jupyter Notebook:**
    ```bash
-   jupyter notebook "Pakistan Market Pulse.ipynb"
+   jupyter notebook "pakistan-parket-pulse.ipynb"
 
 ## 📂 Data Sources
 **Equities Data:** Karachi Stock Exchange tickers via Yahoo Finance (.KA suffix).
